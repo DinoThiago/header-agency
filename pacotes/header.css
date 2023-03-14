@@ -1,0 +1,25 @@
+.container{
+    padding-left: 80px;
+    padding-right: 100px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+ul{
+    display: flex;
+    margin: 10px;
+}
+
+li{
+    color: white;
+    list-style-type: none;
+    cursor: pointer;
+    padding-left: 2rem;
+}
