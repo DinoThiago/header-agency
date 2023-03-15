@@ -1,0 +1,32 @@
+main{
+    color: white;
+}
+
+.img-banner{
+    width: 400px;
+    height: 400px;
+}
+
+section{
+    display: flex;
+}
+
+.btn{
+    padding: 5px 20px;
+    color: white;
+}
+
+.btn.btn-laranja{
+    background: #ff6633;
+    border-radius: 20px;
+}
+
+article{
+    padding-top: 100px;
+    padding-right: 90px;
+    text-align: center;
+}
+
+p{
+    margin-bottom: 30px;
+}
